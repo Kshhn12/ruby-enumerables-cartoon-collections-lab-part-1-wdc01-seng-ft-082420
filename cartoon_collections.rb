@@ -15,4 +15,5 @@ def list_dwarves(array)
   array.each do |name|
     num++
     puts "#{num}. #{name}"
+  end
 end
